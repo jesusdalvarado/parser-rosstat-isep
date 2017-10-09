@@ -31,7 +31,8 @@ Output
 ======
 	
 From table:	
-	- must emit cells by row 
+
+  - must emit cells by row 
   - emit name-frequency-date-value dictionaries
 	
 	
