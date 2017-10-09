@@ -23,6 +23,7 @@ Platform
 ========
 
 Best case: the solution works on Windows and Linux.
+
 Second best: there two solutions, one on Windows works the same as on Linux. 
 
   
