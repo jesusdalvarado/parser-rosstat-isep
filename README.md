@@ -7,8 +7,9 @@ Publication home:
 	<http://www.gks.ru/wps/wcm/connect/rosstat_main/rosstat/ru/statistics/publications/catalog/doc_1140087276688>
 	
 Local files for one month:
-	- [oper.doc](oper.doc) (one table in file)
-	- [oper.pdf](oper.pdf) (table at page 4)
+
+  - [oper.doc](oper.doc) (one table in file)
+  - [oper.pdf](oper.pdf) (table at page 4)
 	
 Pseudocode
 ==========
