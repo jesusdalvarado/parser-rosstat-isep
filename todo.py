@@ -33,4 +33,4 @@ assert row3 == ["Продукция сельского хозяйства, мл�
                 "138,3", "104,7"]
 
 # not todo:
-# convert values like "41782,11)" to  float(41782,1)
+# convert values like "41782,11)" to  float(41782.1)
