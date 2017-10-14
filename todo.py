@@ -1,9 +1,9 @@
-# not todo: create an xml in code, not in command line
-def make_xml(source_file_pdf):
+# todo: create txt file in code, not in command line
+def make_txt(source_file_pdf):
 	pass
 
-# todo:
-def yield_rows_from_xml(source_file_xml):
+# todo: yield page 4 table contents
+def yield_rows_from_txt(source_file_txt):
     yield 0
     yield ["Валовой внутренний продукт, млрд.рублей", 
            "41782,11)"]
